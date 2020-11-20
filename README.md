@@ -18,30 +18,43 @@ so you can spend less time setting up and more time creating your project.
 
 ---
 
-[TOC]
+<!-- MarkdownTOC -->
+
+- [In-Depth project setup](#in-depth-project-setup)
+    - [Added Packages](#added-packages)
+        - [HDRP](#hdrp)
+        - [DOTS](#dots)
+        - [StyleCop.Analyzer](#stylecopanalyzer)
+
+<!-- /MarkdownTOC -->
 
 ---
 
 
 
+<a id="in-depth-project-setup"></a>
 ## In-Depth project setup
 
 If you were to replicate this package from a base Unity3D project:
 
+<a id="added-packages"></a>
 ### Added Packages
 
+<a id="hdrp"></a>
 #### HDRP
 
 Unity's High definition rendering pipeline targeting high-end PC, high-end Mac,
 and high-end consoles for the purpose of creating high-definiton and photo-
 realistic visuals. For more info check this out: [HDRP](https://blogs.unity3d.com/2018/09/24/the-high-definition-render-pipeline-getting-started-guide-for-artists/)
 
+<a id="dots"></a>
 #### DOTS
 
 Unity’s new high-performance, multithreaded Data-Oriented Technology Stack.
 Allowing you to use Entity-Component-System based programming.
 For more information check out [DOTS](https://unity.com/dots)
 
+<a id="stylecopanalyzer"></a>
 #### StyleCop.Analyzer
 
 A custom made plugin that will automatically bring in Unity friendly style guidelines
@@ -50,7 +63,7 @@ of proper C# programming approaches. Often developers would ignore encapsulation
 proper documentation, and undertake other code-rotting practices just because they
 are following the examples provided by Unity itself.
 
-You can add this plugin by cloning the following repository: [https://github.com/ImLp/Unity-StyleCop])(https://github.com/ImLp/Unity-StyleCop)
+You can add this plugin by cloning the following repository: [https://github.com/ImLp/Unity-StyleCop](https://github.com/ImLp/Unity-StyleCop)
 
 
 
