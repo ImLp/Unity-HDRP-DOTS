@@ -1,0 +1,3 @@
+[submodule "Game/Packages/Unity-StyleCop"]
+	path = Game/Packages/Unity-StyleCop
+	url = https://github.com/ImLp/Unity-StyleCop
