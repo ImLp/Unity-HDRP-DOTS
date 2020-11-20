@@ -50,15 +50,7 @@ of proper C# programming approaches. Often developers would ignore encapsulation
 proper documentation, and undertake other code-rotting practices just because they
 are following the examples provided by Unity itself.
 
-You can add this plugin by cloning the following repository: // TODO ADD REPOSITORY.
-
-### Removed Packages
-
-## TextMeshPro
-
-I have rarely used this package as Unity's UI system is more than capable for most
-2D UI. Rather than enforce learning a new system altogether I default to the
-most basic of UI systems.
+You can add this plugin by cloning the following repository: [https://github.com/ImLp/Unity-StyleCop])(https://github.com/ImLp/Unity-StyleCop)
 
 
 
